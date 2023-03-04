@@ -36,7 +36,7 @@ def main():
         petal_width = st.text_input('Petal Width', '0.0')
     result = ''
     if st.button('Predict'):
-        result = prediction(sepal_length, sepal_width, petal_length, petal_width)
+        result = prediction(float(sepal_length), float(sepal_width), float(petal_length), float(petal_width))
     st.header('The Type Of Flower is {}'.format(result.title()))
 
 
