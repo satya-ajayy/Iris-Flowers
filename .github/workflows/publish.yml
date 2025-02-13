@@ -32,5 +32,5 @@ jobs:
           context: .
           push: true
           tags: |
-            ${{ secrets.DOCKER_USERNAME }}/edatum:latest
-            ${{ secrets.DOCKER_USERNAME }}/edatum:${{ env.TIMESTAMP }}
+            ${{ secrets.DOCKER_USERNAME }}/iris-flowers:latest
+            ${{ secrets.DOCKER_USERNAME }}/iris-flowers:${{ env.TIMESTAMP }}
