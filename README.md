@@ -1,5 +1,5 @@
 # IRIS-FLOWERS-PREDICTOR
-By Using KNN Alogirthm On Iris DataSet. ML Model Is Developed To Predict The Type Of New Iris Flowers
+By Using KNN Algorithm On Iris DataSet. ML Model Is Developed To Predict The Type Of New Iris Flowers
 <br>
 Based On Features Sepal-Length, Sepal-Width, Petal-Length, Petal-Width
 <br>
