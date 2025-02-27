@@ -1,8 +1,2 @@
-# IRIS-FLOWERS-PREDICTOR
-By Using KNN Algorithm On Iris DataSet. ML Model Is Developed To Predict The Type Of New Iris Flowers
-<br>
-Based On Features Sepal-Length, Sepal-Width, Petal-Length, Petal-Width
-<br>
-This APP Is Completely Build Using Python (streamlit,sklearn)
-<br>
-APP Is Also Deployed In GCP (https://iris-flowers-740955904071.asia-south1.run.app)
+# Iris Flowers Predictor
+The Iris Flowers Predictor is a machine learning application that predicts the type of iris flower based on input features: `Sepal Length`, `Sepal Width`, `Petal Length`, and `Petal Width`. The model is built using the K-Nearest Neighbors (KNN) algorithm and trained on the Iris dataset. The app is developed in Python using Streamlit and scikit-learn and deployed on Cloud Run (GCP).
